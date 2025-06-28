@@ -1,16 +1,39 @@
-## Hi there 👋
+ Hi, I'm [Your Full Name] 👋
 
-<!--
-**MouadBabakhouya/MouadBabakhouya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI Student | 📊 Data Analyst | 🤖 Future Data Scientist
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+I'm passionate about using data to drive intelligent solutions. I specialize in:
+- Data Analysis & Visualization
+- Machine Learning & Deep Learning
+- Problem-solving with Python, TensorFlow, and Pandas
+
+I believe in building projects that have real-world impact and constantly seek opportunities to grow and innovate.
+
+---
+
+🛠️ Current Focus
+- Advanced Machine Learning 📚
+- AI-Powered Data Analytics 🔍
+- Deep Learning for Smart Systems 🧠
+
+---
+
+🌐 Connect With Me
+- 📧 Email: mouadbabakhouya1@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/mouad-babakhouya-5835ba318/
+- 💻 Portfolio: 
+
+---
+
+📌 Featured Projects
+- 🎯 Customer Churn Prediction – Machine Learning Model to predict customer retention.
+- 🏠 Real Estate Price Estimation – Regression model for property price forecasting.
+- 📊 Life Expectancy Analysis** – Data-driven insights on global health trends.
+
+---
+
+> 💡 *"Turning data into actionable intelligence."*
+
