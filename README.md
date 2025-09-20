@@ -1,4 +1,4 @@
-# 💫 Hi there! I'm Mouad Babakhouya
+#  Hi there! I'm Mouad Babakhouya
 I'm an Artificial Intelligence student passionate about building smart, data-driven solutions. I enjoy exploring the intersection of machine learning, deep learning, and real-world applications — from computer vision to natural language processing.<br><br>🔭 Currently learning: Deep Learning, Computer Vision, and Transformers<br><br>⚡ Working on projects using TensorFlow, PyTorch, and YOLO<br><br>🌱 Interested in Data Science, AI Ethics, and Model Interpretability<br><br>🌍 Exploring open-source collaboration and real-world impact through AI<br><br>📚 Always learning and open to feedback, ideas, and contributions!<br><br>Let's connect and create something impactful! 🚀
 Email Me 👉 ✉️ **mouadbabakhouya1@gmail.com** For Collaboration/Project or Anything Else.
 
