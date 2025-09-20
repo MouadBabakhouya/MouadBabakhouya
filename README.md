@@ -29,16 +29,23 @@
 I'm an Artificial Intelligence student passionate about building smart, data-driven solutions. I enjoy exploring the intersection of machine learning, deep learning, and real-world applications — from computer vision to natural language processing.<br><br>🔭 Currently learning: Deep Learning, Computer Vision, and Transformers<br><br>⚡ Working on projects using TensorFlow, PyTorch, and YOLO<br><br>🌱 Interested in Data Science, AI Ethics, and Model Interpretability<br><br>🌍 Exploring open-source collaboration and real-world impact through AI<br><br>📚 Always learning and open to feedback, ideas, and contributions!<br><br>Let's connect and create something impactful! 🚀
 Email Me 👉 ✉️ **mouadbabakhouya1@gmail.com** For Collaboration/Project or Anything Else.
 #sec
-
 <p align="center">
-  <span style="display:inline-block; text-align:center; margin:13px;">
-    <img
-      src="https://raw.githubusercontent.com/MouadBabakhouya/MouadBabakhouya/main/python-svgrepo-com.svg"
-      alt="Python"
-      title="Python"
-      width="50"/><br/>
-    <sub>Python</sub>
-  </span>
+  <img src="https://raw.githubusercontent.com/MouadBabakhouya/MouadBabakhouya/main/python-svgrepo-com.svg" alt="Python" title="Python" width="50"/> Python &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/MouadBabakhouya/MouadBabakhouya/main/cloud-computing-data-5-svgrepo-com.svg" alt="Cloud" title="Cloud" width="50"/> Cloud &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/MouadBabakhouya/MouadBabakhouya/main/aws-svgrepo-com.svg" alt="" title="" width="50"/>  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" title="Azure" width="50"/> Azure &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="50"/> MySQL &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="50"/> MongoDB &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" title="Kafka" width="50"/> Kafka &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="50"/> TensorFlow &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/MouadBabakhouya/MouadBabakhouya/main/database-svgrepo-com.svg" alt="data science" title="data science" width="50"/> data science &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/MouadBabakhouya/MouadBabakhouya/main/spark-svgrepo-com.svg" alt="Spark" title="Spark" width="50"/> Spark &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/MouadBabakhouya/MouadBabakhouya/main/hadoop-svgrepo-com.svg" alt="hadoop" title="hadoop" width="50"/> hadoop &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/MouadBabakhouya/MouadBabakhouya/main/docker-icon-svgrepo-com.svg" alt="docker" title="docker" width="50"/> docker &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="50"/> PyTorch &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" title="Scikit-Learn" width="50"/> Scikit-Learn &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="50"/> Pandas &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="50"/> NumPy
 </p>
 
 
