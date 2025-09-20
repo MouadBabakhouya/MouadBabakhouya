@@ -29,35 +29,16 @@
 I'm an Artificial Intelligence student passionate about building smart, data-driven solutions. I enjoy exploring the intersection of machine learning, deep learning, and real-world applications — from computer vision to natural language processing.<br><br>🔭 Currently learning: Deep Learning, Computer Vision, and Transformers<br><br>⚡ Working on projects using TensorFlow, PyTorch, and YOLO<br><br>🌱 Interested in Data Science, AI Ethics, and Model Interpretability<br><br>🌍 Exploring open-source collaboration and real-world impact through AI<br><br>📚 Always learning and open to feedback, ideas, and contributions!<br><br>Let's connect and create something impactful! 🚀
 Email Me 👉 ✉️ **mouadbabakhouya1@gmail.com** For Collaboration/Project or Anything Else.
 #sec
-<!-- First Row -->
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" title="Spark" alt="Spark" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" title="Hadoop" alt="Hadoop" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" title="Kafka" alt="Kafka" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50" height="50"/>
-</p>
 
-<!-- Second Row -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn" alt="Scikit-Learn" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="50" height="50"/>
-</p>
-
-
-# firt
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Big%20Data-00CFFF?style=for-the-badge&logo=apachehadoop&logoColor=white" alt="Big Data"/>
+  <span style="display:inline-block; text-align:center; margin:13px;">
+    <img
+      src="https://raw.githubusercontent.com/MouadBabakhouya/MouadBabakhouya/main/python-svgrepo-com.svg"
+      alt="Python"
+      title="Python"
+      width="50"/><br/>
+    <sub>Python</sub>
+  </span>
 </p>
 
 
