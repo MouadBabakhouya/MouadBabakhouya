@@ -36,9 +36,9 @@ Email Me 👉 ✉️ **mouadbabakhouya1@gmail.com** For Collaboration/Project or
   <img src="https://raw.githubusercontent.com/MouadBabakhouya/MouadBabakhouya/main/aws-svgrepo-com.svg" alt="" title="" width="50"/>  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" title="Azure" width="50"/> Azure &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="50"/> MySQL &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="60"/> MongoDB &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" title="Kafka" width="60"/> Kafka &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="50"/> TensorFlow &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="55"/> MongoDB &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" title="Kafka" width="50"/> Kafka &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="60"/> TensorFlow &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/MouadBabakhouya/MouadBabakhouya/main/database-svgrepo-com.svg" alt="data science" title="data science" width="50"/> data science &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/MouadBabakhouya/MouadBabakhouya/main/spark-svgrepo-com.svg" alt="Spark" title="Spark" width="50"/> Spark &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/MouadBabakhouya/MouadBabakhouya/main/hadoop-svgrepo-com.svg" alt="hadoop" title="hadoop" width="50"/> hadoop &nbsp;&nbsp;
