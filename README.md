@@ -51,21 +51,21 @@ Email Me 👉 ✉️ **mouadbabakhouya1@gmail.com** For Collaboration/Project or
 
 <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <p align="left">
   <a href="https://github.com/MouadBabakhouya/helmet-detection">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MouadBabakhouya&repo=Helmet-Detection&theme=react&bg_color=1F222E&title_color=66BB6A&hide_border=true&icon_color=F8D866&show_icons=false" alt="Helmet Detection">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MouadBabakhouya&repo=helmet-detection&theme=react&bg_color=1F222E&title_color=66BB6A&hide_border=true&icon_color=F8D866&show_icons=false" alt="Helmet Detection">
   </a>
   <a href="https://github.com/MouadBabakhouya/AISALARY">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MouadBabakhouya&repo=Life-Expectancy-Prediction&theme=react&bg_color=1F222E&title_color=66BB6A&hide_border=true&icon_color=F8D866&show_icons=false" alt="Life Expectancy Prediction">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MouadBabakhouya&repo=AISALARY&theme=react&bg_color=1F222E&title_color=66BB6A&hide_border=true&icon_color=F8D866&show_icons=false" alt="AI Salary Prediction">
   </a>
   <a href="https://github.com/MouadBabakhouya/house-price-prediction">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MouadBabakhouya&repo=Real-Estate-Price-Prediction&theme=react&bg_color=1F222E&title_color=66BB6A&hide_border=true&icon_color=F8D866&show_icons=false" alt="Real Estate Price Prediction">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MouadBabakhouya&repo=house-price-prediction&theme=react&bg_color=1F222E&title_color=66BB6A&hide_border=true&icon_color=F8D866&show_icons=false" alt="House Price Prediction">
   </a>
   <a href="https://github.com/MouadBabakhouya/Bitcoin-Analysis">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MouadBabakhouya&repo=Recommendation-System&theme=react&bg_color=1F222E&title_color=66BB6A&hide_border=true&icon_color=F8D866&show_icons=false" alt="Recommendation System">
+    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MouadBabakhouya&repo=Bitcoin-Analysis&theme=react&bg_color=1F222E&title_color=66BB6A&hide_border=true&icon_color=F8D866&show_icons=false" alt="Bitcoin Analysis">
   </a>
 </p>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
