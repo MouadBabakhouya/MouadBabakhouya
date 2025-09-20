@@ -53,8 +53,10 @@ Email Me 👉 ✉️ **mouadbabakhouya1@gmail.com** For Collaboration/Project or
 
 <p align="left">
   <a href="https://github.com/MouadBabakhouya/helmet-detection">
-    <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MouadBabakhouya&repo=helmet-detection&theme=react&bg_color=1F222E&title_color=66BB6A&hide_border=true&icon_color=F8D866&show_icons=false" alt="Helmet Detection">
-  </a>
+  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MouadBabakhouya&repo=helmet-detection&theme=react&bg_color=1F222E&title_color=66BB6A&hide_border=true&icon_color=F8D866&show_icons=false&cache_seconds=60" alt="helmet detection">
+</a>
+
+
   <a href="https://github.com/MouadBabakhouya/AISALARY">
     <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=MouadBabakhouya&repo=AISALARY&theme=react&bg_color=1F222E&title_color=66BB6A&hide_border=true&icon_color=F8D866&show_icons=false" alt="AI Salary Prediction">
   </a>
