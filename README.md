@@ -28,15 +28,16 @@
 
 I'm an Artificial Intelligence student passionate about building smart, data-driven solutions. I enjoy exploring the intersection of machine learning, deep learning, and real-world applications — from computer vision to natural language processing.<br><br>🔭 Currently learning: Deep Learning, Computer Vision, and Transformers<br><br>⚡ Working on projects using TensorFlow, PyTorch, and YOLO<br><br>🌱 Interested in Data Science, AI Ethics, and Model Interpretability<br><br>🌍 Exploring open-source collaboration and real-world impact through AI<br><br>📚 Always learning and open to feedback, ideas, and contributions!<br><br>Let's connect and create something impactful! 🚀
 Email Me 👉 ✉️ **mouadbabakhouya1@gmail.com** For Collaboration/Project or Anything Else.
-#sec
+
+# Skills
 <p align="center">
   <img src="https://raw.githubusercontent.com/MouadBabakhouya/MouadBabakhouya/main/python-svgrepo-com.svg" alt="Python" title="Python" width="50"/> Python &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/MouadBabakhouya/MouadBabakhouya/main/cloud-computing-data-5-svgrepo-com.svg" alt="Cloud" title="Cloud" width="50"/> Cloud &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/MouadBabakhouya/MouadBabakhouya/main/aws-svgrepo-com.svg" alt="" title="" width="50"/>  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" title="Azure" width="50"/> Azure &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="50"/> MySQL &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="50"/> MongoDB &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" title="Kafka" width="50"/> Kafka &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="60"/> MongoDB &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" title="Kafka" width="60"/> Kafka &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="50"/> TensorFlow &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/MouadBabakhouya/MouadBabakhouya/main/database-svgrepo-com.svg" alt="data science" title="data science" width="50"/> data science &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/MouadBabakhouya/MouadBabakhouya/main/spark-svgrepo-com.svg" alt="Spark" title="Spark" width="50"/> Spark &nbsp;&nbsp;
@@ -48,30 +49,6 @@ Email Me 👉 ✉️ **mouadbabakhouya1@gmail.com** For Collaboration/Project or
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="50"/> NumPy
 </p>
 
-
-#  Skills:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="AWS" width="90" />
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Python" width="95" />
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="Cloud" width="90" />
-  https://github.com/mayhemantt/mayhemantt/blob/master/svg/dev/services/dockerhub.svg
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/azure.svg" alt="Azure" width="90" />
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="Data science" width="13" />
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/tensorflow.svg" alt="TensorFlow" width="40" />
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/pytorch.svg" alt="PyTorch" width="40" />
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/docker.svg" alt="Docker" width="40" />
-</p>
-
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MouadBabakhouya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MouadBabakhouya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MouadBabakhouya&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MouadBabakhouya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
