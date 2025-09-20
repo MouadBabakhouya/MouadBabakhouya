@@ -26,8 +26,21 @@
 
 
 
-I'm an Artificial Intelligence student passionate about building smart, data-driven solutions. I enjoy exploring the intersection of machine learning, deep learning, and real-world applications — from computer vision to natural language processing.<br><br>🔭 Currently learning: Deep Learning, Computer Vision, and Transformers<br><br>⚡ Working on projects using TensorFlow, PyTorch, and YOLO<br><br>🌱 Interested in Data Science, AI Ethics, and Model Interpretability<br><br>🌍 Exploring open-source collaboration and real-world impact through AI<br><br>📚 Always learning and open to feedback, ideas, and contributions!<br><br>Let's connect and create something impactful! 🚀
-Email Me 👉 ✉️ **mouadbabakhouya1@gmail.com** For Collaboration/Project or Anything Else.
+⭐ **About Me**  
+I’m an **Artificial Intelligence student** passionate about building **smart, data-driven solutions**.  
+I thrive at the intersection of **Machine Learning, Deep Learning, and Big Data**, applying AI to real-world challenges ranging from **Computer Vision** to **Natural Language Processing**.  
+
+⭐ **Currently Learning:** Advanced Deep Learning, Computer Vision, Transformers, and Big Data frameworks  
+⭐ **Hands-On Projects:** YOLO for real-time detection, TensorFlow & PyTorch for ML/DL pipelines, License Plate & Helmet Detection Systems  
+☁️ **Big Data & Cloud Skills:** Cloud Computing (AWS, Google Cloud), Hadoop, Spark, Data Lakes, and scalable AI deployment  
+⭐ **Areas of Interest:** Data Science, AI Ethics, Model Interpretability, and Cloud-based AI solutions  
+🌐 **Collaboration & Impact:** Exploring open-source contributions and applying AI for real-world, large-scale impact  
+
+📚 Always learning and open to **feedback, ideas, and collaborations!**  
+📩 **Let’s connect:** mouadbabakhouya1@gmail.com  
+
+ *Building the future with AI, Big Data, and Cloud technologies!*  
+
 
 # Skills
 <p align="center">
@@ -72,8 +85,9 @@ Email Me 👉 ✉️ **mouadbabakhouya1@gmail.com** For Collaboration/Project or
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=MouadBabakhouya&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
 
 
